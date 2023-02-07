@@ -1,0 +1,4 @@
+# The software libraries required to run this code can be installed using:
+pyttsx3
+PyPDF2
+tk
